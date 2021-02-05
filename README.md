@@ -1,2 +1,2 @@
 # foofactors
-Demo Package from R Packages from Hadley Wickham
+Demo Package from R Packages by Hadley Wickham
